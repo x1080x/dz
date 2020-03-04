@@ -6,5 +6,5 @@
 -
 <b>https://github.com/x1080x/dz</b>
 
-永久域名：www.x1080x.com
+永久域名：x1080x.com
 -
