@@ -2,7 +2,9 @@
 -
 https://www.b800.me
 -
-<font color=red>請牢記防屏蔽網址（加入收藏夾）</font>
+請牢記防屏蔽網址（加入收藏夾）
 -
 https://github.com/x1080x/dz
+-
 永久域名：www.x1080x.com
+-
